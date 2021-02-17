@@ -1,7 +1,7 @@
-# Basic Website Layout
+# Basic WebSite-LayOut
 
-* Rudimentary website layout for a generic business.
-* Very cool illustrations.
+* rudimentary webSite-layOut for generic business
+* includes illustrations
 
 ## Stack
 
